@@ -7,4 +7,6 @@ tagline: Code from the Digital Humanities Lab at MIT
 
 HyperStudio explores the potential of new media technologies for the enhancement of education and research in the humanities. Our work focuses on questions about the integration of technology into humanities curricula within the broader context of scholarly inquiry and pedagogical practice.
 
-### Project Descriptions to Follow
+### Annotation Studio
+
+Info coming soon!
