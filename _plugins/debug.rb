@@ -4,6 +4,7 @@
 #  {{ site | debug }}
 #  {{ site.posts | debug }}
 #
+require "jekyll-less"
 require 'pp'
 module Jekyll
   # Need to overwrite the inspect method here because the original
