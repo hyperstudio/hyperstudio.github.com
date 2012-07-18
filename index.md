@@ -24,4 +24,5 @@ The  proposed platform will have the capacity to engage learners in   close read
 
 <a href="/ann-studio-preview.mov" target="_new">Watch a screencast to learn about this work in progress.</a>
 
+<a href="http://github.com/hyperstudio/">Source code coming soon.</a>
 
