@@ -9,18 +9,17 @@ HyperStudio explores the potential of new media technologies for the enhancement
 
 ### Annotation Studio
 
-Annotation Studio will be a web-based application that actively engages students in  interpreting  literary  texts and other humanities documents.  While strengthening students' new media  literacies,  this open source web application will develop traditional humanistic skills including close reading, textual analysis, persuasive writing, and critical thinking. 
+Annotation Studio is a web-based application that engages students in interpreting literary texts and other humanities documents. Annotation Studio is a web application that helps students develop traditional humanistic skills including close reading, textual analysis, persuasive writing, and critical thinking.
 
-Initial features will include: 
-- easy-to-use annotation tools that facilitate linking and comparing primary texts with multi-media  source, variation, and adaptation documents; 
-- sharable collections of multimedia materials  prepared by faculty and student users; 
-- multiple filtering and display mechanisms for texts,  written  annotations, and multimedia annotations; 
+Features included and under development: 
+- easy-to-use annotation tools that facilitate linking and comparing primary texts with multi-media source, variation, and adaptation documents; 
+- sharable collections of multimedia materials prepared by faculty and student users; 
+- filtering and display mechanisms for texts, written annotations, and multimedia annotations; 
 - collaboration functionality; and 
-- multimedia  composition  tools.
+- multimedia composition tools.
 
-At  present, there is no educational platform that combines text and multimedia annotation tools  with  a user-friendly interface that engages students in   reading, interpreting, and writing about  seminal  texts.    Existing tools, such as TextLab, are designed to meet the needs of expert scholars.    In  contrast,  Annotation Studio will make text analysis intuitive for students while integrating  educational  features such as participatory functionality and multimedia composition tools. 
+At present, no educational platform combines text and multimedia annotation tools with a user-friendly interface that engages students in reading, interpreting, and writing about seminal texts. Annotation Studio will make text analysis intuitive for students while integrating educational features such as participatory functionality and multimedia composition tools.
 
-The  proposed platform will have the capacity to engage learners in   close reading and collaborative  interpretation  of classic humanities texts.  Tapping the unique affordances of   digital media and  associated cultural practices, Annotation Studio will draw students into the traditional activities of  humanistic  scholarship: exploring sources and influences; examining historical and cultural  contexts;  tracing the flow of ideas across time, geography, and media; and considering multiple  perspectives.
+The proposed platform will have the capacity to engage learners in close reading and collaborative interpretation of classic humanities texts. Tapping the unique affordances of digital media and associated cultural practices, Annotation Studio will draw students into the traditional activities of humanistic scholarship: exploring sources and influences; examining historical and cultural contexts; tracing the flow of ideas across time, geography, and media; and considering multiple perspectives.
 
-- [Watch a screencast to learn about this work in progress.](/ann-studio-preview.mov)
 - [Source code coming soon.](http://github.com/hyperstudio/)
