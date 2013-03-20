@@ -22,4 +22,6 @@ At present, no educational platform combines text and multimedia annotation tool
 
 The proposed platform will have the capacity to engage learners in close reading and collaborative interpretation of classic humanities texts. Tapping the unique affordances of digital media and associated cultural practices, Annotation Studio will draw students into the traditional activities of humanistic scholarship: exploring sources and influences; examining historical and cultural contexts; tracing the flow of ideas across time, geography, and media; and considering multiple perspectives.
 
+- [Learn more.](http://www.annotationstudio.org/)
+- [Try it out.](http://app.annotationstudio.org/)
 - [Source code coming soon.](http://github.com/hyperstudio/)
