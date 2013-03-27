@@ -29,6 +29,9 @@ The proposed platform will have the capacity to engage learners in close reading
 
 Funding for Annotation Studio has been provided by a NEH Office of Digital Humanities Start-up grant (Level II)
 
-![Hyperstudio](/assets/images/logo_hyperstudio.png) ![MIT](/assets/images/logo_mit.png) ![CMS](/assets/images/logo_cms.png) ![NEH](/assets/images/neh_at_logo.png)
+[![Hyperstudio](/assets/images/logo_hyperstudio.png)](http://hyperstudio.mit.edu) [![MIT](/assets/images/logo_mit.png)](http://web.mit.edu) [![CMS](/assets/images/logo_cms.png)](http://cms.mit.edu) [![NEH](/assets/images/neh_at_logo.png)](http://www.neh.gov/divisions/odh)
+
+
+
 
 
