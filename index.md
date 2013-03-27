@@ -15,6 +15,7 @@ Features included and under development:
 - easy-to-use annotation tools that facilitate linking and comparing primary texts with multi-media source, variation, and adaptation documents; 
 - sharable collections of multimedia materials prepared by faculty and student users; 
 - filtering and display mechanisms for texts, written annotations, and multimedia annotations; 
+- tools for visualizing reader interactions with texts
 - collaboration functionality; and 
 - multimedia composition tools.
 
@@ -25,3 +26,9 @@ The proposed platform will have the capacity to engage learners in close reading
 - [Learn more.](http://www.annotationstudio.org/)
 - [Try it out.](http://app.annotationstudio.org/)
 - [Source code coming soon.](http://github.com/hyperstudio/)
+
+Funding for Annotation Studio has been provided by a NEH Office of Digital Humanities Start-up grant (Level II)
+
+![Hyperstudio](/assets/images/logo_hyperstudio.png) ![MIT](/assets/images/logo_mit.png) ![CMS](/assets/images/logo_cms.png) ![NEH](/assets/images/neh_at_logo_.png)
+
+
