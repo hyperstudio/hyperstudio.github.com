@@ -25,7 +25,7 @@ The proposed platform will have the capacity to engage learners in close reading
 
 - [Learn more.](http://www.annotationstudio.org/)
 - [Try it out.](http://app.annotationstudio.org/)
-- [Source code coming soon.](http://github.com/hyperstudio/)
+- [Source code.](http://github.com/hyperstudio/)
 
 Funding for Annotation Studio has been provided by a NEH Office of Digital Humanities Start-up grant (Level II)
 
