@@ -37,6 +37,6 @@ Funding for Annotation Studio has been provided by a NEH Office of Digital Human
 	<li><a href="http://www.neh.gov/divisions/odh" target="_blank"><img src="assets/images/neh_at_logo.png"></a></li>
 	<li><a href="http://web.mit.edu" target="_blank"><img src="/assets/images/logo_mit.png"></a></li>
 	<li><a href="http://cms.mit.edu" target="_blank"><img src="/assets/images/logo_cms.png"></a></li>
-	<li><a href="http://hyperstudio.mit.edu" target="_blank"><img src="/assets/images/logo_hyperstudio.png" ></a>.</li>
+	<li><a href="http://hyperstudio.mit.edu" target="_blank"><img src="/assets/images/logo_hyperstudio.png" ></a></li>
 	</ul>
 </div>
