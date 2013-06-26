@@ -3,7 +3,6 @@ published: true
 layout: page
 title: Hyperstudio on Github
 tagline: Code from the Digital Humanities Lab at MIT
-
 ---
 
 {% include JB/setup %}
@@ -11,7 +10,6 @@ tagline: Code from the Digital Humanities Lab at MIT
 HyperStudio explores the potential of new media technologies for the enhancement of education and research in the humanities. Our work focuses on questions about the integration of technology into humanities curricula within the broader context of scholarly inquiry and pedagogical practice.
 
 ### Annotation Studio
-
 Annotation Studio is a web-based application that engages students in interpreting literary texts and other humanities documents. Annotation Studio is a web application that helps students develop traditional humanistic skills including close reading, textual analysis, persuasive writing, and critical thinking.
 
 Features included and under development: 
@@ -38,5 +36,6 @@ Funding for Annotation Studio has been provided by a NEH Office of Digital Human
 	<li><a href="http://web.mit.edu" target="_blank"><img src="/assets/images/logo_mit.png"></a></li>
 	<li><a href="http://cms.mit.edu" target="_blank"><img src="/assets/images/logo_cms.png"></a></li>
 	<li><a href="http://hyperstudio.mit.edu" target="_blank"><img src="/assets/images/logo_hyperstudio.png" ></a></li>
+	<li><a href="#" target="_blank">Test</a></li>
 	</ul>
 </div>
